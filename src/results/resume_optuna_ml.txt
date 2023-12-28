@@ -1,0 +1,1 @@
+{"decision_tree": {"result": 1.0, "params": {"criterion": "entropy", "splitter": "best", "max_depth": 3, "min_samples_split": 3}, "time": 277.9626679420471}}
